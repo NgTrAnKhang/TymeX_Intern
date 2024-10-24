@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Doc\\Question2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Question2.csproj|d:\\doc\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Question2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|D:\\Doc\\Question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Question2.csproj|d:\\doc\\question2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Question2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|D:\\Doc\\Question2\\question2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|solutionrelative:question2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|D:\\Doc\\Question2\\question2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1446493-8870-47F5-AE3C-83CB9DE622E6}|Test.csproj|solutionrelative:question2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankha\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\01f33232-0b9f-4bcb-bf15-22351aef0fcf\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Doc\\Question2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Doc\\Question2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:36:52.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankha\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\01f33232-0b9f-4bcb-bf15-22351aef0fcf\\Program.cs",
+              "ToolTip": "C:\\Users\\ankha\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\01f33232-0b9f-4bcb-bf15-22351aef0fcf\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:01:56.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question2_1.cs",
+              "DocumentMoniker": "D:\\Doc\\Question2\\Question2_1.cs",
+              "RelativeDocumentMoniker": "Question2_1.cs",
+              "ToolTip": "D:\\Doc\\Question2\\Question2_1.cs",
+              "RelativeToolTip": "Question2_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:00:51.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question2_2.cs",
+              "DocumentMoniker": "D:\\Doc\\Question2\\Question2_2.cs",
+              "RelativeDocumentMoniker": "Question2_2.cs",
+              "ToolTip": "D:\\Doc\\Question2\\Question2_2.cs",
+              "RelativeToolTip": "Question2_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:40:15.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Doc\\Question2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Doc\\Question2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:38:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Doc\\Question2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Doc\\Question2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:04:48.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
