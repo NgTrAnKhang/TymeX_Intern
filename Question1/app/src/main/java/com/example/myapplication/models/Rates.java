@@ -174,7 +174,6 @@ public class Rates {
     private float ZMW;
     private float ZWL;
 
-    // Getters and setters for each currency omitted for brevity
 
     public Map<String, Float> toMap() {
         Map<String, Float> ratesMap = new HashMap<>();

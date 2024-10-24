@@ -29,13 +29,12 @@ public class CurrencyAdapter extends ArrayAdapter<String> {
         String currency = this.getItem(position);
         TextView tvSelected = convertView.findViewById(R.id.tv_selected);
 
-        // Log the currency to see if it's null or empty
         Log.d("CurrencyAdapter", "Currency at position " + position + ": " + currency);
 
         if (currency != null && !currency.isEmpty()) {
             tvSelected.setText(currency);
         } else {
-            tvSelected.setText("No Currency"); // Optional fallback text
+            tvSelected.setText("No Currency");
         }
 
         return convertView;
@@ -52,7 +51,7 @@ public class CurrencyAdapter extends ArrayAdapter<String> {
         if (currency != null) {
             tvCurrency.setText(currency);
         } else {
-            tvCurrency.setText(""); // Set to empty if null to avoid issues
+            tvCurrency.setText("");
         }
         return convertView;
     }
